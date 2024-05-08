@@ -1,2 +1,3 @@
-# DA_project
+# Data Analysis Project
+
 A template for data analysis projects for the Applied Bioinformatics Group at Goethe University Frankfurt.
