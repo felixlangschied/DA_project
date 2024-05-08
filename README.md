@@ -10,3 +10,8 @@ Once a milestone of an analysis is reached the resulting dataset or figure must 
   - path to the the script that was used to generate the data/figure
   - input data
   - variables
+
+## Open Questions
+
+  - How to handle large datasets/analyses (path to filesystem?, can we share symbolic links via GitHub?)
+  
